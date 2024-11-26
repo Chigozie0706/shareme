@@ -1,0 +1,26 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+
+# Ignore environment files
+.env
+
+
+client_secret_45144704730-gmjvte4ml01mp42gs7su7n3bg7as8go3.apps.googleusercontent.com.json
+
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
